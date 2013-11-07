@@ -42,7 +42,7 @@ Voici les différents format : (respecter la CASSE)
 	DD = day of the week in words (Monday, Tuesday … Sunday)
 	
 	D = day abbreviation (Mon, Tues … Sun)
-	
+
 	
 	Exemple :
 	{dateFormat: 'D dd MM yy'} = vendredi 29 Novembre 2013
