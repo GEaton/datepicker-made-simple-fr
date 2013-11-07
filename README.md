@@ -40,5 +40,3 @@ Voici les différents format : (respecter la CASSE)
 	dd = day (01 - 31)
 
 	ddd = day of the week in words (Monday, Tuesday … Sunday)
-
-	D - Ordinal day (1st, 2nd, 3rd, 21st, 22nd, 23rd, 31st, 4th…)
