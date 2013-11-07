@@ -14,7 +14,7 @@ Code JS - jQuery UI pour avoir un datepicker en français dans made simple
     
 	3.1 dans la partie 'Métadonnées spécifiques pour cette page :' copier/coller le code
 
-Pour aller plus loins
+Pour aller plus loin
 =====================
 
 Pour formater la date qui est générée, il faut juste changer la valeur de 'dateFormat' à la ligne 8 
