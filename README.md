@@ -43,7 +43,7 @@ Voici les différents format : (respecter la CASSE)
 	
 	D = day abbreviation (Mon, Tues … Sun)
 
-	
+=	
 	Exemple :
 	{dateFormat: 'D dd MM yy'} = vendredi 29 Novembre 2013
 	{dateFormat: 'yy-mm-d'} = 2013-11-29
