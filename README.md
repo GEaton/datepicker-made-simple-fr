@@ -23,20 +23,27 @@ Pour formater la date qui est générée, il faut juste changer la valeur de 'da
 
 Voici les différents format : (respecter la CASSE)
 
-	yy = short year
+	y = short year
 
-	yyyy = long year
+	yy = long year
 
-	M = month (1-12)
+	m = month (1-12)
 
-	MM = month (01-12)
+	mm = month (01-12)
 
-	MMM = month abbreviation (Jan, Feb … Dec)
+	M = month abbreviation (Jan, Feb … Dec)
 
-	MMMM = long month (January, February … December)
+	MM = long month (January, February … December)
 
 	d = day (1 - 31)
 
 	dd = day (01 - 31)
 
-	ddd = day of the week in words (Monday, Tuesday … Sunday)
+	DD = day of the week in words (Monday, Tuesday … Sunday)
+	
+	D = day abbreviation (Mon, Tues … Sun)
+	
+	
+	Exemple :
+	{dateFormat: 'D dd MM yy'} = vendredi 29 Novembre 2013
+	{dateFormat: 'yy-mm-d'} = 2013-11-29
